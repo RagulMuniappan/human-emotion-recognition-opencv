@@ -55,7 +55,7 @@ human-emotion-recognition-opencv/
 
 ---
 
-## Working Principle
+### Working Principle
 
 - Capture video frames using a webcam  
 - Detect faces from the live video feed  
@@ -65,7 +65,7 @@ human-emotion-recognition-opencv/
 
 ---
 
-## Applications
+### Applications
 
 - Human–computer interaction  
 - Emotion-aware systems  
@@ -75,7 +75,7 @@ human-emotion-recognition-opencv/
 
 ---
 
-## Output
+### Output
 
 - Real-time webcam feed with detected emotions  
 - Emotion labels displayed on detected faces  
